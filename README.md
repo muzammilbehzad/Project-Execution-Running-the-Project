@@ -3,8 +3,8 @@ The knowledge base contanis a specialization overview from the course [Project E
 - [Introduction to project execution](./Introduction%20to%20project%20execution.md)
 - [Quality management and continuous improvement](./Quality%20management%20and%20continuous%20improvement.md)
 - [Data-informed decision-making](.//Data-informed%20decision-making.md)
-- [Leadership and influencing skills]()
-- [Effective project communication]()
+- [Leadership and influencing skills](./Leadership%20and%20influencing%20skills.md)
+- [Effective project communication](./Effective%20project%20communication.md)
 - [Closing a project]()
 
 This is the fourth course in the Google Project Management Certificate program. This course will delve into the execution and closing phases of the project life cycle. You will learn what aspects of a project to track and how to track them. You will also learn how to effectively manage and communicate changes, dependencies, and risks. As you explore quality management, you will learn how to measure customer satisfaction and implement continuous improvement and process improvement techniques. Next, you will examine how to prioritize data, how to use data to inform your decision-making, and how to effectively present that data. Then, you will strengthen your leadership skills as you study the stages of team development and how to manage team dynamics. After that, you will discover tools that provide effective project team communication, how to organize and facilitate meetings, and how to effectively communicate project status updates. Finally, you will examine the steps of the project closing process and how to create and share project closing documentation. Current Google project managers will continue to instruct and provide you with hands-on approaches for accomplishing these tasks while showing you the best project management tools and resources for the job at hand.
