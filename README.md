@@ -2,7 +2,7 @@
 The knowledge base contanis a specialization overview from the course [Project Execution: Running the Project](https://www.coursera.org/learn/project-execution-google?specialization=google-project-management) by Google on [Coursera](https://www.coursera.org/). It is divided into following modules:
 - [Introduction to project execution](./Introduction%20to%20project%20execution.md)
 - [Quality management and continuous improvement](./Quality%20management%20and%20continuous%20improvement.md)
-- [Data-informed decision-making]()
+- [Data-informed decision-making](.//Data-informed%20decision-making.md)
 - [Leadership and influencing skills]()
 - [Effective project communication]()
 - [Closing a project]()
